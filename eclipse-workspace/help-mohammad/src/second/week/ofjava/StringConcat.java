@@ -1,0 +1,18 @@
+package second.week.ofjava;
+
+public class StringConcat {
+
+	
+	public static void main(String[] args) {
+		
+		String firstName = "Mohammad";
+		
+		String lastName = "Shokriyan";
+		
+		String fullName = firstName + lastName;
+		System.out.println(fullName);
+		
+		
+		
+	}
+}

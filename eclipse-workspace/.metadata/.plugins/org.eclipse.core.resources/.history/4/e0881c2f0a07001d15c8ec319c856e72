@@ -1,0 +1,5 @@
+package tiger.api.test.data;
+
+public class DataGenerator {
+
+}

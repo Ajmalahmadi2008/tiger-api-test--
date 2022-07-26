@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
+    <fullyQualifiedTypeName name="utilities.BaseClass"/>
+    <fullyQualifiedTypeName name="core.Base"/>
+    <fullyQualifiedTypeName name="com.intuit.karate.junit4.Karate"/>
+    <fullyQualifiedTypeName name="com.intuit.karate.junit5.Karate"/>
+</qualifiedTypeNameHistroy>

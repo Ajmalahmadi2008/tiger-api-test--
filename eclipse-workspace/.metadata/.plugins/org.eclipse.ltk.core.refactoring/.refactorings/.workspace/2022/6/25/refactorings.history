@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;us.tekschool.capstone.bdd&apos;" deleteContents="false" description="Delete resource &apos;us.tekschool.capstone.bdd&apos;" element1="/us.tekschool.capstone.bdd" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1655324178773"/>&#x0A;<refactoring comment="Delete resource &apos;us.tekschool.tigers&apos;" deleteContents="true" description="Delete resource &apos;us.tekschool.tigers&apos;" element1="/us.tekschool.tigers" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1655341191085"/>
+</session>

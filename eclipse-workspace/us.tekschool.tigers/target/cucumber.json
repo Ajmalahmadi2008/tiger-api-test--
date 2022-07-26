@@ -1,0 +1,123 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-06-17T00:35:04.681Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3747000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Login to Tekschool retail page with one user",
+        "description": "",
+        "id": "login-to-tekschool-website;login-to-tekschool-retail-page-with-one-user",
+        "after": [
+          {
+            "result": {
+              "duration": 677000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 56000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on Tekschool retail page",
+            "match": {
+              "location": "stepDefinitions.SingleLoginSteps.i_am_on_tekschool_retail_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 54000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on my account link",
+            "match": {
+              "location": "stepDefinitions.SingleLoginSteps.i_click_on_my_account_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 254000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on login link",
+            "match": {
+              "location": "stepDefinitions.SingleLoginSteps.i_click_on_login_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 148000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter my correct username and password",
+            "match": {
+              "location": "stepDefinitions.SingleLoginSteps.i_enter_my_correct_username_and_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 351000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on login button",
+            "match": {
+              "location": "stepDefinitions.SingleLoginSteps.i_click_on_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 32000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I logged into the Tekschool retail page",
+            "match": {
+              "location": "stepDefinitions.SingleLoginSteps.i_logged_into_the_tekschool_retail_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@singlelogin"
+          }
+        ]
+      }
+    ],
+    "name": "login to Tekschool Website",
+    "description": "",
+    "id": "login-to-tekschool-website",
+    "keyword": "Feature",
+    "uri": "classpath:features/singlelogin.feature",
+    "tags": []
+  }
+]

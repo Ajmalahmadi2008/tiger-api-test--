@@ -1,0 +1,76 @@
+2022-06-16 00:01:31,444 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-06-16 00:09:47,581 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-06-16 00:13:05,383 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-06-16 00:28:28,764 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-06-16 00:30:58,499 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-06-16 00:36:49,029 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-06-16 00:38:30,758 [main] INFO logger_File - Scenario Login to Tekschool Tetail page with one user started
+2022-06-16 01:09:27,380 [main] INFO logger_File - Scenario Login to Tekschool Tetail page with one user started
+2022-06-16 01:13:39,986 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 01:18:33,131 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 01:29:42,080 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 01:43:49,609 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 19:53:42,893 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 19:53:44,505 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 19:53:44,514 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-06-16 19:53:45,665 [main] INFO io.github.bonigarcia.wdm.Downloader - Downloading https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-16 19:53:46,555 [main] INFO io.github.bonigarcia.wdm.Downloader - Extracting binary from compressed file chromedriver_win32.zip
+2022-06-16 19:53:46,623 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Mohammad Ahmadi\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 19:53:52,031 [main] INFO logger_File - Text Test Environment was verified
+2022-06-16 19:53:52,115 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-16 19:53:52,426 [main] INFO logger_File - Login link was clicked successfully
+2022-06-16 19:53:53,137 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user UNDEFINED
+2022-06-16 20:03:02,725 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 20:03:03,063 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 20:03:03,072 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Mohammad Ahmadi\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 20:03:06,024 [main] INFO logger_File - Text Test Environment was verified
+2022-06-16 20:03:06,072 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-16 20:03:06,303 [main] INFO logger_File - Login link was clicked successfully
+2022-06-16 20:03:06,974 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user UNDEFINED
+2022-06-16 20:07:26,883 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 20:07:27,325 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 20:07:27,334 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Mohammad Ahmadi\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 20:07:30,261 [main] INFO logger_File - Text Test Environment was verified
+2022-06-16 20:07:30,312 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-16 20:07:30,549 [main] INFO logger_File - Login link was clicked successfully
+2022-06-16 20:07:31,304 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user UNDEFINED
+2022-06-16 20:11:53,282 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 20:11:53,635 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 20:11:53,644 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Mohammad Ahmadi\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 20:11:56,522 [main] INFO logger_File - Text Test Environment was verified
+2022-06-16 20:11:56,572 [main] INFO logger_File - My Account button was clicked successfully
+2022-06-16 20:11:56,813 [main] INFO logger_File - Login link was clicked successfully
+2022-06-16 20:11:57,489 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user UNDEFINED
+2022-06-16 20:23:48,678 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 20:23:49,034 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 20:23:49,043 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Mohammad Ahmadi\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 20:23:51,839 [main] INFO logger_File - The TEST ENVIRONMENT text was verified successfully
+2022-06-16 20:23:51,887 [main] INFO logger_File - My Account link was clicked successfully
+2022-06-16 20:23:52,117 [main] INFO logger_File - Login link was clicked successfully
+2022-06-16 20:23:52,260 [main] INFO logger_File - Email address and password were entered successfully
+2022-06-16 20:23:52,914 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user UNDEFINED
+2022-06-16 20:27:52,584 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 20:27:52,951 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 20:27:52,959 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Mohammad Ahmadi\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 20:27:55,800 [main] INFO logger_File - The TEST ENVIRONMENT text was verified successfully
+2022-06-16 20:27:55,853 [main] INFO logger_File - My Account link was clicked successfully
+2022-06-16 20:27:56,101 [main] INFO logger_File - Login link was clicked successfully
+2022-06-16 20:27:56,248 [main] INFO logger_File - Email address and password were entered successfully
+2022-06-16 20:28:00,951 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user UNDEFINED
+2022-06-16 20:29:55,143 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 20:29:55,476 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 20:29:55,487 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Mohammad Ahmadi\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 20:30:00,617 [main] INFO logger_File - The TEST ENVIRONMENT text was verified successfully
+2022-06-16 20:30:00,670 [main] INFO logger_File - My Account link was clicked successfully
+2022-06-16 20:30:00,915 [main] INFO logger_File - Login link was clicked successfully
+2022-06-16 20:30:01,060 [main] INFO logger_File - Email address and password were entered successfully
+2022-06-16 20:30:01,770 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user UNDEFINED
+2022-06-16 20:35:04,768 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user started
+2022-06-16 20:35:05,113 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 20:35:05,150 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Mohammad Ahmadi\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 20:35:08,540 [main] INFO logger_File - The TEST ENVIRONMENT text was verified successfully
+2022-06-16 20:35:08,595 [main] INFO logger_File - My Account link was clicked successfully
+2022-06-16 20:35:08,848 [main] INFO logger_File - Login link was clicked successfully
+2022-06-16 20:35:08,997 [main] INFO logger_File - Email address and password were entered successfully
+2022-06-16 20:35:09,382 [main] INFO logger_File - The My Account text was verified successfully
+2022-06-16 20:35:10,060 [main] INFO logger_File - Scenario Login to Tekschool retail page with one user PASSED

@@ -1,0 +1,34 @@
+Feature: Create an account and add address to the account. 
+
+# Step 1) Get a token
+# Step 2) Generate an Account
+# Step 3) add address to generated account. 
+
+ Background: Create new Account.
+  Given url "https://tek-insurance-api.azurewebsites.net"
+   * def createAccountResult = callonce read('generateToken.feature');
+   And print reateAccountResult
+   * def primaryPersonId = reateAccountResult.response.id
+   * def token = reateAccountResult.response.token
+   
+   Scenario: Add address to an account
+   Given path ' /api/account/add-account-address'
+   Given param primayPersonId = primaryPersonId
+   Given header Authorization = "Bearer " + token
+   Given request
+     """
+     
+     {
+     "addressType": "Home",
+     "addressLine1": "1234 Tysons Central ST",
+     "city": "Vienna",
+     "state": "Virginia",
+     "postalCode": "22182",
+     "current"; true
+     }
+     """
+     When method post
+     Then status 201
+     And print response
+
+

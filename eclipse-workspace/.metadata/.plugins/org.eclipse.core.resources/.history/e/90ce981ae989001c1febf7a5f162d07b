@@ -1,0 +1,14 @@
+package second.week.ofjava;
+
+public class PrintMyFirstName {
+
+	public static void main(String[] args) {
+		
+		String name = "Mohammad";
+		
+		String nameInAllCaps = name.toUpperCaps();
+		
+		System.out.println(nameInAllCaps);
+		
+	}
+}
