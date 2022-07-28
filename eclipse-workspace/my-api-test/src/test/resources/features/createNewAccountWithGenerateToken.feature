@@ -1,3 +1,4 @@
+@smoke2
 Feature: Create account with data generator
 
   Background: generate  token for all Scenarios.
